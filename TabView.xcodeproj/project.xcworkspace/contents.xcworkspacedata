@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/mustafa/Documents/XCode Projects/TabView/TabView.xcodeproj">
    </FileRef>
 </Workspace>
